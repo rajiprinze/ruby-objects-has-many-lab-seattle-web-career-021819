@@ -1,5 +1,5 @@
 class Song
-  def artist_name
-   self.artist.name
- end
+
+  def initialize
+
 end
